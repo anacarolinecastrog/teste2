@@ -1,0 +1,5 @@
+
+/* Esconde a marca "Powered by Typebot" */
+iframe::-webkit-scrollbar {
+  display: none;
+}
